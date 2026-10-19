@@ -1,34 +1,18 @@
 After interaction with Google AI they inferred my 3 chicks as F2 generation. Therefore:
+
 GameSilkies Project — Generation Clarification
 
 As of 19 October 2026
 
-
-The GameSilkies project, founded and documented by José Flor (OzFlor) at Fazenda Mondego, records naturally produced Gamefowl × Silkie hybrids and their subsequent breeding generations.
-
-
-F0 parental line and F1 offspring
-
-
-
-
-Game1 — Arriba: Hatched on 13 October 2026 at 16:49 LT from Gamegg3, a 36 g egg. Hatch weight: 25 g.
-
-
-Game2 — Black: Hatched overnight into 14 October 2026 from Gamegg4, a 37 g egg. Hatch weight: 27 g. Predominantly black down was observed, with a small yellow area around the left wing/toe region as recorded in the hatch observations.
-
-
-Both chicks are F1 offspring from the project's F0 parental line, not F2 offspring.
-
-
-
-
-F2 generation — planned, not yet established
-As of 19 October 2026, the project is preparing for the transition to F2. F1 birds, including Beta Phoenix, are approaching laying age. Their actual laying and the subsequent breeding and hatching records will determine when F2 production begins.
-
-
-The existence of F1 chicks does not establish that F2 eggs have been laid or that F2 offspring have hatched. Generation assignments must follow documented parentage, not chick numbering or hatch order.
-
-
-Documentation principle: Preserve the original observations and chronology. Distinguish established parentage from planned breeding and unconfirmed expectations. Do not assign a generation without supporting breeding records.
-
+F0 Gamefowl Chicks and Planned Breeding Direction
+The three recently hatched chicks, Game1 — Arriba, Game2 — Black, and the third Gamefowl chick, are F0 Gamefowl, not GameSilkies hybrids.
+Their future role in the GameSilkies project depends on their sex:
+If female: They may be retained as potential breeding hens and paired with Silkie roosters to produce GameSilkies F1 offspring.
+If male: They will be excluded from the GameSilkies breeding project once their sex is established, because they cannot serve the project's intended role as Gamefowl breeding hens.
+The project's defined breeding direction is Gamefowl hen × Silkie rooster. The reciprocal cross, Silkie hen × Gamefowl rooster, is outside the project's breeding plan.
+Generation Definitions
+F0: The Gamefowl and Silkie parental stock used for the intended cross.
+F1 GameSilkies: Offspring produced by crossing a Gamefowl hen with a Silkie rooster.
+F2 GameSilkies: The subsequent generation produced through planned breeding of selected F1 birds, with actual parentage documented.
+Current status: The three Gamefowl chicks remain potential F0 breeding stock. Their sex has not yet determined whether they will be retained as breeding candidates or excluded. They are not F1 GameSilkies, and the project has not yet established the planned F2 generation.
+Documentation principle: Generation labels follow documented parentage and breeding history, not hatch order, chick names, or intended future roles.
