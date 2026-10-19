@@ -124,3 +124,4 @@ Photographer and record origin: José Flor – OzFlor.
 Traceability principle: Preserve the product identity, labelled ingredients, administration times, treated eye, and subsequent observations as separate facts. Do not retrospectively infer causation.
 
 
+[Odysee main archive](https://odysee.com/@Fazenda.Mondego:5/Comfort.Drops191026:c?view=shorts)
