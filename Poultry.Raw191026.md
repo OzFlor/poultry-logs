@@ -7,7 +7,7 @@ José Flor - OzFlor → original observation → raw log → AI-assisted organiz
 ** END of Log - Monday, 19 October 2026 18:40
 
 **TITLE**
-DAILY POULTRY LOG - 
+DAILY POULTRY LOG - Monday, 19 October 2026 
 **SUBTITLE: dominant theme >
 
 ---
@@ -256,7 +256,7 @@ add 20 HASHTAGS here
 
 ---
 Raw Log
-
+https://odysee.com/@Fazenda.Mondego:5/Poultry.Raw191026:0
 
 ---
 Public Log
