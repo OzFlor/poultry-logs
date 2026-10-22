@@ -152,22 +152,57 @@ The caretaker recorded no concern regarding this weight change.
 
 The caretaker recorded no concern regarding this weight change.
 
-15:25 — Health incident recorded for Beta
+### 15:25 — Video Recording and Health Incident: Beta Phoenix
 
-The supplied incident report describes Beta as appearing unwell, lethargic and inactive, with fluffed feathers, a hanging head and minimal tail movement.
+**Date:** 22 October 2026
+**Subject:** Beta Phoenix (Gamy4; F1, Gamy gene-mother line)
+**Incident category:** Acute respiratory distress and subsequent abnormal vocalisation following a jump and landing.
+**Supporting evidence:** Video recorded at 15:25, with additional context and observations supplied by the caretaker.
 
-An acute respiratory episode was then observed:
+**Identification clarification:** The bird's plumage appears laced to the caretaker. The designation *Silver-laced Sebright Hen* in the preliminary incident description is not a confirmed breed identification or a statement of the caretaker's formal qualification. The bird is identified in the GameSilkies project records as Beta Phoenix. Breed identification remains provisional.
 
-- Neck extended outward.
-- Beak open.
-- Loud, strained respiratory noise.
-- Breathing subsequently appeared to clear temporarily, and the gasping sound stopped.
+#### Observations before recording
 
-Beta later jumped from the garden table. Immediately after landing, she emitted a very short, high-pitched noise.
+Before starting the video, the caretaker observed that Beta was bobbing her tail very slightly. Her feathers were not fluffed.
 
-The original incident report raises possible acute collapse, internal trauma or a terminal event as interpretations. These remain unconfirmed possibilities, not established diagnoses.
+The caretaker had already observed enough to judge that Beta required checking and intervention. The video was intended for analysis and record-keeping, not as a substitute for care.
 
-Record clarification: Beta is identified in the supplied incident report as a Silver-laced Sebright Hen. This classification conflicts with the surrounding GameSilkies F1 section, which identifies the bird as Beta Phoenix. The original wording is preserved here without independently resolving the discrepancy. The bird's identity should be checked against the original imagery or other identifying records before the incident is attributed definitively to Beta Phoenix.
+#### Observations during the recorded incident
+
+The video documents an episode involving outward neck extension, an open beak and a loud, strained respiratory noise, consistent with apparent respiratory distress.
+
+The caretaker reports that the breathing subsequently appeared to clear temporarily and the gasping noise stopped.
+
+The video and the supplied context are evidence for the observed episode; they do not independently establish its underlying cause.
+
+#### Subsequent event
+
+Beta jumped from the garden table. Immediately after landing, she emitted a very short, high-pitched noise.
+
+The significance of this vocalisation is uncertain. Acute pain, injury or collapse cannot be confirmed from the sound alone.
+
+#### Caretaker's intervention and rationale
+
+The caretaker states that recording was stopped to assist Beta once the need for intervention had been recognised. The caretaker explicitly rejects the interpretation that recording itself represented neglect: the initial observations had already prompted a decision to check and assist the bird.
+
+The incident was particularly alarming because the caretaker had previously lost a Silkie hen following a similar-looking episode that progressed to a fatal outcome within seconds. This earlier experience explains the urgency and concern associated with Beta's presentation; it does not establish that the two incidents had the same cause or prognosis.
+
+#### Interpretation and diagnostic limitations
+
+The available record supports documenting an acute episode of apparent respiratory distress followed by an abnormal vocalisation immediately after landing.
+
+The following remain undetermined:
+
+* The cause of the respiratory episode.
+* Whether the landing resulted in an injury.
+* The significance of the brief vocalisation.
+* Whether the respiratory and landing events were causally related.
+* The eventual outcome of the incident, unless established in a subsequent log.
+
+**Record-integrity note:** Preserve the caretaker's pre-recording observations, the original video, the timing of the intervention and any subsequent observations as distinct evidence. Do not replace the original observations with an AI-generated diagnosis or infer negligence from the existence of a recording.
+
+**Cross-reference:** `GameSilkies.Log221026` — ID Gamy4, Beta Phoenix, DOB 14 June 2026.
+
 
 ---
 
