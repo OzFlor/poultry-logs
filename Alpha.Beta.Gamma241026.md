@@ -172,4 +172,4 @@ My aim is to build a manageable, attractive and healthy line of GameSilkies whil
 thanks!
 José Flor OzFlor
 
-[Odysee main archive](https://www.backyardchickens.com/threads/gamesilkies-breeding-decisions-docility-sentinel-behaviour-health-and-genetic-diversity.1696659/)
+[BYC archive](https://www.backyardchickens.com/threads/gamesilkies-breeding-decisions-docility-sentinel-behaviour-health-and-genetic-diversity.1696659/)
