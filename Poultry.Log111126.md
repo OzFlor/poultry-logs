@@ -312,9 +312,12 @@ DOB: 14 October 2026.
 
 Chick stool observations
 
-- Overnight stools from the chicks had very high certainty of blood.
-- A separate note states that the group stools were clear of blood. The exact timing and group attribution of that statement are not sufficiently clear to reconcile it with the overnight observation.
-- The mothers are excluded as stool sources for the overnight observations, based on the explicit clarification that none of the three mothers produced an overnight stool.
+- Overnight stools from group Arriba and Black were clear of blood.
+
+- Overnight stools from group Red October and Ouro Preto had very high certainty of blood.
+
+- The three mothers are excluded as stool sources for the overnight observations, based on the explicit clarification that none of the three mothers produced an overnight stool.
+
 
 Red October — Silkie1
 
