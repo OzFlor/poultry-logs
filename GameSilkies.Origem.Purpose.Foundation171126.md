@@ -49,3 +49,6 @@ To ensure historical accuracy and verifiable credit for the GameSilkies name, al
 ---
 
 *Authored by José Flor (OzFlor) — OzFlor – Fazenda Mondego, Thailand. First documented March 2024. Prototype v0.1.*
+
+
+[Odysee main archive](https://odysee.com/@Fazenda.Mondego:5/GameSilkies.Origem.Purpose.Foundation171126:b)
