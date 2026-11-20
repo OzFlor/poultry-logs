@@ -218,6 +218,18 @@ Arithmetic note: The individual Mix 1 entries add up to 32 ml if the initial 6 m
 Caretaker assessment: Intake remains very low, and solid feeding is difficult. The caretaker does not want to increase egg yolk further but is considering approximately 28 ml the following day.
 
 ---
+Corrections for Jóli’s record:
+
+* 09:34, not 08:34 — 6 ml Mix 1.
+
+* The 15:28 entry (6 ml Mix 1) was not highlighted in red, so it was missed in the original count.
+
+* The actual total remains 32 ml Mix 1, counting all six recorded administrations: 6 + 6 + 6 + 2 + 6 + 6 ml.
+
+* My intended limit was approximately 28 ml of yolk mix. Since Mix 1 is approximately 95% egg yolk, 32 ml of Mix 1 represents roughly 30.4 ml of yolk, assuming the mixture is uniform.
+
+> The intended limit was approximately 28 ml of yolk mix. The recorded total reached 32 ml Mix 1 because the 15:28 administration was not included in the initial count. Mix 1 consists of approximately 95% egg yolk. The user remains concerned about relying so heavily on the same feed composition, particularly given Jóli’s very limited intake of other foods.
+---
 
 Black Red Neck
 
