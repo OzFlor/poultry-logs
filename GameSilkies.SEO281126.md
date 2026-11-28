@@ -99,6 +99,60 @@ If you'd like step-by-step instructions to back up your GameSilkies.com files on
 Whether you want to migrate specific pages from GameSilkies.com first
 
 
+---
+
+Gamesilkies.com is served on my GitHub.
+My domain is akreasy on wayback machine. 
+I will do more things than. 
+
+"Whether you want a standard 3-line archival footer template to paste across WordPress, GitHub, and Odysee" write that.
+
+---
+
+
+Since GameSilkies.com is already served from GitHub and archived on the Wayback Machine, your project is in a great position—your repository will remain permanently accessible at your free github.io URL even if the custom .com domain expires.
+Here are two ready-to-paste versions of your 3-line archival footer template depending on the platform:
+
+
+Option 1: Plain Text & Links (Best for Odysee & Video Descriptions)
+Odysee and video platforms work best with clean, full URLs so they become clickable automatically:
+
+text
+GameSilkies Project — Experimental Poultry Breeding (Gamefowl × Silkie) by José Flor (OzFlor)
+• Main Articles & Index: https://gamesilkies.wordpress.com
+• Daily Video Logs (6+ Years): https://odysee.com/@GameSilkies (or your exact channel URL)
+• Full Data, HTML Mirror & Downloads: https://github.com/YOUR-USERNAME/YOUR-REPO
+
+Use code with caution.
+
+
+
+
+
+Option 2: Markdown Format (Best for GitHub READMEs & WordPress)
+GitHub and WordPress render Markdown cleanly into compact clickable links:
+
+markdown
+---
+**GameSilkies Project** — Gamefowl × Silkie Breeding Archive by José Flor (OzFlor)  
+[Articles & Clarifiers (WordPress)](https://wordpress.com) • [6-Year Daily Video Log (Odysee)](https://odysee.com) • [Raw Data & Mirror (GitHub)](https://github.com)
+
+Use code with caution.
+
+
+
+
+Quick Tip Before You Paste
+Replace YOUR-USERNAME/YOUR-REPO and verify your exact Odysee channel handle link once, then save the final block in a .txt file on your desktop or inside your GitHub repository so you can copy-paste it effortlessly whenever you publish.
+Because GameSilkies.com is hosted on GitHub Pages, make sure to keep your repository public and avoid deleting the repo if you disconnect the custom domain later—GitHub will automatically keep serving all your pages at https://github.io.
+
+
+If you'd like to tackle any of those next steps, let me know:
+Whether you want help checking your GitHub Pages setup so the free .github.io link stays live after .com expires
+If you want a README.md template for your GitHub repository to organize your downloads and logs for future researchers
+Anything else you'd like to build or organize for the archive
+
+
 
 
 
