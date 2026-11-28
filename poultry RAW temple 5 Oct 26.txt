@@ -1,0 +1,267 @@
+
+[Normalise .md format. Two separate logs, first the full log and the second only related to GameSilkies.
+Shorten the repeated project notices.
+Refer to Clarifiers & Interpretation https://odysee.com/@Fazenda.Mondego:5/Poultry-Log-Clarifiers:7https://gamesilkies.wordpress.com/clarifiers-interpretation-standards/ for normalisation if needed. Place my URL gamesilkies.com on appropriate location closed to the top for better visibility.]
+
+[my logs starts when the previous one finishes. It's not a rigid 24H log]
+José Flor - OzFlor → original observation → raw log → AI-assisted organization/normalization → published record → Odysee → @Fazenda.Mondego
+
+**START OF LOG — 
+** END of Log - 
+
+**TITLE**
+DAILY POULTRY LOG - 
+**SUBTITLE: dominant theme >
+
+---
+[i need the two URLs. Odysee is my main archive but not discoverable ]
+# Clarifiers & Interpretation
+
+- ["Odysee — Poultry Log Clarifiers"](https://odysee.com/@Fazenda.Mondego:5/Poultry-Log-Clarifiers:7)
+
+< Project Origin & Independence Notice 
+While physically operated within Thailand as a matter of geography, the GameSilkies project is independent and is not a Thai project. Local conditions represent ongoing obstacles to its operation. The initiative belongs to José António Flor de Sousa (OzFlor) and is published under @Fazenda.Mondego.
+
+- ["WordPress — Clarifiers & Interpretation Standards"](https://gamesilkies.wordpress.com/clarifiers-interpretation-standards/)
+---
+
+== ENV ==
+WEATHER:
+* 
+* 
+NOTES & other env:
+* 
+
+== HUMAN ==
+* normal if not logged.
+
+++++++++ STOOLS ++++++++
+
+== OVERNIGHT stools ==
+**Some stools may be individually logged under bird name**
+
+---
+GAMEFOWLS (out):
+* 
+Young Gamefowls, GameSilkies and Silkies (in):
+* selves: no bird slept here.
+* window bamboo stand: 
+* area -1: 
+* area 0: 
+* area 1: 
+* area 2: 
+* area 3: Branquinho is the only one sleeping here isolated.
+
+== DAY stools ==
+**Some stools may be individually logged**
++30min after coop open:
+* 
+MORNING:
+* 
+AFTERNOON:
+* 
+
+== FEED/WATER ==
+BOOST (indiv):
+* n/a
+WATER:
+* 
+FOOD:
+* 
+
+== BEHAVIOUR ==
+AGGRESSION / TONE:
+** this is a high aggression flock environment **
+* 
+
+++++++++ INDIVIDUALS +++++
+*If weight not logged means not taken ** weight and % are only relevant to growing birds, sick birds or supportive birds**
+
+
+### Pipi (ICU since 24 Nov)
+* morning weight g ec, g/24h
+* 
+
+---
+
+# Patrícia (on my supervision since 6 Nov 26)
+*  
+
+---
+# young Gamecocks
+# Bico Preto (ICU since later May 2026)
+* weighing discontinued temporarily: neck function and behaviour. Neck injury.
+* 
+* 
+* 
+* 
+* 
+* 
+**TOTAL items | ml water**
+
+---
+# Branquinho ICU  from middle October (systematic neurologic - weight discontinued related to neurologic issues)
+* 
+---
+
+
+++++++++ GENERAL ++++++++
+== FLOCK/CARETAKER/OBS ==
+NOTES:
+* 
+* 
+
+------------------+++++++++--------------
+# Title:
+## GAMESILKIES DAILY POULTRY LOG full date
+
+
+# GameSilkies project, Gamefowl chicks
+
+### egg testing incubation - top of shelves sharing incubation
+## Black Red Neck (broody sitting since 10 Oct)
+* time weight g ec.
+* 
+---
+## Black Neck (Broody sitting since 11 Oct 26)
+* time weight g ec.
+* 
+---
+## eggs
+# ID Silkieegg2 (incubation day 22 Nov 26)
+* 
+# ID GSegg1 (incubation day 22 Nov 26)
+* 
+**Eggs ID Silkieegg2 and GSegg1 cannot be assigned to eggs until it hatchs.**
+---
+# ID GSegg2 (incubation day 24 Nov 26)
+* 
+---
+# ID GSegg3 (incubation day 26 Nov 26)
+* 
+# ID GSegg4 (incubation day 27 Nov 26)
+* 
+---
+
+## Red Neck mother
+* weight g ec, g/24h
+* 
+---
+## Blue Neck mother (mother logged discontinued, she's independent now and looks like Broody staying long times on top shelves with Broody hens.)
+### ID: Silkie1, Name: Red October
+DOB 11 Oct 2026 (not part of gamesilkies project)
+* morning weight g ec, +g/24h, [calculate %]
+* 
+---
+### ID: Game3, Name Ouro Preto
+DOB 15 Oct 2026
+* morning weight g ec, +g/24h, [calculate %]
+* 
+
+---
+**Both hens sharing maternity together**
+
+-----------------------------------------------
+
+## Red Blue Neck mother
+* weight g ec, g/24h
+* 
+---
+### ID: Game1, Name: Arriba
+ DOB: 13 Oct 2026
+* morning weight g ec, +g/24h, [calculate %]
+* 
+---
+### ID Game2, Name: Black
+DOB: 14 Oct 2026
+* morning weight g ec, +g/24h, [calculate %]
+* 
+
+---
+
+
+# GameSilkies Gamy (ID Gamy1) - gene-mother line F1
+## ID: Gamy3 - Name: Alpha Phoenix, DOB 13 Jun 26
+* morning weight g ec, +g/24h, [calculate %]
+* sleeping weight g vfc, +g/24h
+* 
+
+---
+
+##  ID: Gamy4 - Name: Beta Phoenix DOB 14 Jun 26
+* morning weight g ec, +g/24h, [calculate %]
+* sleeping weight g vfc, +g/24h
+* 
+---
+** general **
+* 
+
+--------------------------------------------------
+# ID: Gamy5
+Primary name: Gamma Phoenix
+Valid alternative names: Vasco da Gama; Vasquinho
+Generation/line: GameSilkies BS gene-mother line, F1 DOB 10 Jul 26
+* morning weight g ec, +g/24h, [calculate %]
+* sleeping weight g vfc, +g/24h
+* 
+
+---
+
+https://orcid.org/0009-0001-7123-6307
+
+< Any assessment of the GameSilkies project should identify which source records, dates, protocols, and supporting media were examined. Conclusions drawn from partial retrieval must be identified as provisional and must not be generalised to unexamined records.
+
+---
+
+This entry has been cross-referenced and structured under the stable identifier system as **Poultry.LogDDMMYY**.
+
+Raw logs are kept privately and no longer with a stable identifier. 
+
+Corresponding **Imagery.LogDDMMYY** captures recorded on this date.
+
+GameSilkies records have a dedicated identifier: **GameSilkies.LogDDMMYY**.
+
+José Flor – OzFlor | Fazenda Mondego
+
+1992/2026 — Nature shares freely, so do I.
+Use this kindly, credit OzFlor, and keep it out of business hands.
+
+### Suggested tags for citing or sharing this data:
+add 20 HASHTAGS here
+
+[preserve the footnotes at the bottom for Google indexing/canonical]
+---
+**GameSilkies Project** — Experimental Poultry Breeding (Gamefowl × Silkie) by José Flor (OzFlor)  
+* **Main Articles & Index:** [gamesilkies.wordpress.com](https://gamesilkies.wordpress.com)  
+* **Daily Video Logs (since 2020):** [odysee.com/@Fazenda.Mondego:5](https://odysee.com/@Fazenda.Mondego:5)  
+* **Data, Website Mirror & Archives:** [Poultry Logs (GitHub)](https://github.com/OzFlor/poultry-logs) • [Website Mirror (GitHub)](https://github.com/OzFlor/gamesilkies-website) • [1998 Web Provenance (GitHub)](https://github.com/OzFlor/fortunecity-archive)
+
+
+
+
+[AI normalisation, please ignore below this marker, it's only my private information on my raw log]
+
+---
+# WIFI2:
+* Wifi connects to Wifi1 indirectly.
+** Wifi1 on previous logs **
+* Skipper the one leg killed many embryos and new hatched babies but a Silkie chick survived for her to be the mother. This chick fallowed me a lot because I had to take care of Skipper 
+
+---
+Raw Log
+
+
+---
+Public Log
+
+
+---
+images video
+
+
+---
+GAMESILKIES DAILY POULTRY LOG
+
+
+
+---
